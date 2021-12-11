@@ -1,16 +1,21 @@
-### Hi there 👋
+Languages im good at:
 
-<!--
-**Bansaidnes/Bansaidnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- O_O
 
-Here are some ideas to get you started:
+Languages I know a fair bit of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- C#
+
+Languages I'd like to learn:
+
+- Python
+- Javascript
+- Java
+
+
+
+
+Honestly, all the repos I have are basic ass programs that even a 10 year old can make. 
+
+
+I'm just archiving them here on github.
