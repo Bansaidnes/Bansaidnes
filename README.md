@@ -1,16 +1,16 @@
-Languages im good at:
+Languages I know well:
 
-- O_O
+- C#
 
 Languages I know a fair bit of:
 
-- C#
+- Java
 
 Languages I'd like to learn:
 
 - Python
 - Javascript
-- Java
+- C++
 
 
 
