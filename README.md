@@ -7,10 +7,10 @@ Languages I know well:
 Languages I know a fair bit of:
 
 - Java
+- Python
 
 Languages I'd like to learn:
 
-- Python
 - Javascript
 - C++
 
