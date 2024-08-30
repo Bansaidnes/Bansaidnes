@@ -8,8 +8,4 @@ Languages I'm somewhat familiar with:
 
 - Java
 - Python
-
-Languages I'd like to learn:
-
 - Javascript
-- C++
