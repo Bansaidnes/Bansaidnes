@@ -4,7 +4,7 @@ Languages I know well:
 
 - C#
 
-Languages I know a fair bit of:
+Languages I'm somewhat familiar with:
 
 - Java
 - Python
