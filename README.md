@@ -1,5 +1,3 @@
-![Bansaidnes'Github stats](https://github-readme-stats.vercel.app/api?username=bansaidnes&show_icons=true&theme=radical)
-
 Languages I know well:
 
 - C#
